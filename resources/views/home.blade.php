@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('Admin You are logged in!') }}
                     <a href="/"><p class="text-decoration-none"><strong>Go to Page Home</strong></p></a>
                 </div>
             </div>
